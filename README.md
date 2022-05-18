@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @obiwanskywalkr
-- 👀 I’m interested in becoming a web developer and enjoy researching cryptocurrencies
+- 👀 I’m interested in becoming a web developer
 - 🌱 I’m currently learning HTML, CSS, and JavaScript through The Odin Project
 
 <!---
